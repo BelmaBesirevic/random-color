@@ -1,0 +1,24 @@
+.container {
+  color: #121212;
+  text-align: center;
+}
+
+.r-num-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #121212;
+  border-radius: 20px;
+  padding: 50px;
+  
+}
+
+
+.color {
+  font-size: 30px;
+  display: inline-block;
+  text-align: center;
+}
+
+.generate {
+  
+}
